@@ -2,14 +2,9 @@
 <html lang="en">
 <head>
     <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
-    <title>Document</title>
+    <title>LOL</title>
 </head>
 <body>
-<h1>Ceci est un titre</h1>
-
-<form action="POST">
-    <input type="submit" value="envoyer">
-</form>
-
+<h1>le plus LOL du monde</h1>
 </body>
 </html>
