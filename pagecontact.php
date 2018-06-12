@@ -2,9 +2,9 @@
 <html lang="en">
 <head>
     <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
-    <title>Document</title>
+    <title>page contact</title>
 </head>
 <body>
-<h1>Ceci est un titre</h1>
+oué oué trop bien
 </body>
 </html>
